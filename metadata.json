@@ -1,0 +1,8 @@
+{
+  "name": "StillHere",
+  "description": "A digital afterlife companion app allowing users to preserve memories and interact with AI personas of loved ones.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
